@@ -2,6 +2,6 @@
 ## Header 2
 This is words
 ### List
--Banana
--Apple
--Orange
+- Banana
+- Apple
+- Orange
